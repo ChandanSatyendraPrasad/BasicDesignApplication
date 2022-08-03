@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">BasicDesignApplication</string>
+    <string name="male">Male</string>
+    <string name="female">Female</string>
+    <string name="submit">Submit</string>
+    <string name="enter_your_info">Enter Your Info</string>
+    <string name="enter_your_age">Enter Your Age</string>
+    <string name="enter_your_username">Enter Your Username</string>
+</resources>
